@@ -1,9 +1,9 @@
 {
 	"name": "mono-debug",
-	"displayName": "Mono Debug for Windsurf",
+	"displayName": "Mono Debug (Open VSX Fork)",
 	"version": "0.16.3",
 	"publisher": "chrisatwindsurf",
-	"description": "Debugger for Mono in Windsurf",
+	"description": "[Open VSX Fork] Visual Studio Code debugger extension for Mono. Unmodified fork of microsoft/vscode-mono-debug for Open VSX compatibility.",
 	"icon": "images/mono-debug-icon.png",
 	"categories": [
 		"Debuggers"
